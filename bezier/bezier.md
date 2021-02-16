@@ -7,9 +7,6 @@ layout: default
 A Bézier curve is a parametric curve defined by a set of points in a given order, providing a computationaly simple calculation for a smooth curve. A Bézier curde of order $n$ can be calculated from a set of $n+1$ points, designated as $P_0, P_1, P_2, ... P_n$ where $P_0$ is the starting point of the Bézier curve, and $P_n$ is the endpoint of the curve.
 
 
-
-![bezier curve](./gifs/clas14.png)
-
 <p align="center">
   <img src="./gifs/clas14.png" />
 </p>
@@ -35,6 +32,10 @@ A first-order, or linear Bézier curve, is equivalent to a linear interpolation 
 $B(t) = P_0 + t\left(P_1 - P_0\right)$
 
 ![linear](./gifs/linear.gif)
+
+<p align="center">
+  <img src="./gifs/linear.gif" />
+</p>
 
 #### Quadratic Bézier curves $(n=2)$
 A second-order, or quadratic Bézier curve, is given by the following equation:
