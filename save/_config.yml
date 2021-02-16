@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+title: shape-based trajectories
+markdown: kramdown
+kramdown:
+    math_engine: katex
+
+katex: True
+
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
