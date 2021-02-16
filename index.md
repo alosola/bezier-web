@@ -6,14 +6,6 @@ A Bézier curve is a parametric curve defined by a set of points in a given orde
 
 ![bezier curve](./bezier/gifs/clas14.png)
 
-![justname](clas14.png)
-
-![nodot](/bezier/gifs/clas14.png)
-
-![GSD1 phenotype]({{ BASE_PATH }}/bezier/gifs/clas14.png)
-
-![content url](https://raw.githubusercontent.com/alosola/trajectory/main/bezier/gifs/clas14.png)
-
 
 
 
