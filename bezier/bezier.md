@@ -58,6 +58,7 @@ $B(t) = (1-t)B_{P_0,P_1,P_2}(t) + tB_{P_1,P_2,P_3}(t)$
 This property is the basis of De Casteljau's algorithm, which will be seen in the next section.
 
 In addition, depending on the point distribution, cubic curves (as well as curves of higher order) can take on more complex shapes, or even cusps:
+
 ![cubic](./gifs/cusp.gif)
 
 
