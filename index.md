@@ -3,7 +3,7 @@ layout: default
 title: Contents
 ---
 
-# CContents
+# Contents
 
 This site is a trial run containing results and images of the shape-based trajectory project.
 

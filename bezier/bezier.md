@@ -59,3 +59,6 @@ This property is the basis of De Casteljau's algorithm, which will be seen in th
 
 In addition, depending on the point distribution, cubic curves (as well as curves of higher order) can take on more complex shapes, or even cusps:
 ![cubic](./gifs/cusp.gif)
+
+
+*See next: [De Casteljau's algorithm](./decastel.md)*
