@@ -1,15 +1,6 @@
 ---
 layout: page
-title: An Introduction to Bézier curves
----
-
-
----
-layout: post
-title: "General definition of Bézier curves"
-author: "You!"
-categories: journal
-image: cutting.jpg
+title: General definition of Bézier curves
 ---
 
 
