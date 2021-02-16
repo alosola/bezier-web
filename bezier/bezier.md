@@ -33,10 +33,6 @@ $B(t) = P_0 + t\left(P_1 - P_0\right)$
 
 ![linear](./gifs/linear.gif)
 
-<p align="center">
-  <img src="./gifs/linear.gif" />
-</p>
-
 #### Quadratic Bézier curves $(n=2)$
 A second-order, or quadratic Bézier curve, is given by the following equation:
 
