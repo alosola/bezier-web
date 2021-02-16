@@ -8,7 +8,7 @@ A Bézier curve is a parametric curve defined by a set of points in a given orde
 
 *Note: all examples made in this document are for 2-dimensional curves, conteines within a surface. The process is identical for 3-dimensional curves.*
 
-![bezier curve](./assets/img/bezier/clas14.png)
+![bezier curve](https://github.com/alosola/trajectory/blob/main/assets/img/bezier/clas14.png?raw=true)
 
 
 The general form of a Bézier curve is given by the following definition:
