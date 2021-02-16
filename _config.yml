@@ -10,6 +10,11 @@
 #   sort_field: 'date'
 #   sort_reverse: true
 
+theme: jekyll-theme-minimal
+title: shape-based trajectories
+markdown: kramdown
+kramdown:
+    math_engine: katex
 
 # jekyll-paginate configuration
 paginate:            5
