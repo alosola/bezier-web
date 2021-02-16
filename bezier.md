@@ -2,6 +2,8 @@
 
 A Bézier curve is a parametric curve defined by a set of points in a given order, providing a computationaly simple calculation for a smooth curve. A Bézier curde of order $$n$$ can be calculated from a set of $$n+1$$ points, designated as $$P_0, P_1, P_2, ... P_n$$ where $$P_0$$ is the starting point of the Bézier curve, and $$P_n$$ is the endpoint of the curve.
 
+*Note: all examples made in this document are for 2-dimensional curves, conteines within a surface. The process is identical for 3-dimensional curves.*
+
 ![bezier curve](./bezier/gifs/clas14.png)
 
 ![justname](clas14.png)
@@ -10,8 +12,10 @@ A Bézier curve is a parametric curve defined by a set of points in a given orde
 
 ![GSD1 phenotype]({{ BASE_PATH }}/bezier/gifs/clas14.png)
 
+![content url](https://raw.githubusercontent.com/alosola/trajectory/main/bezier/gifs/clas14.png)
 
-*Note: all examples made in this document are for 2-dimensional curves, conteines within a surface. The process is identical for 3-dimensional curves.*
+
+
 
 ## Definition
 #### General definition
