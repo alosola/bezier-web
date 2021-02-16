@@ -7,8 +7,8 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Bézier Curves', path: 'menu', url: 'about.html'}
-- {name: 'Shape-based Trajectories', path: 'menu', url: 'writing.html'}
+- {name: 'Bézier Curves', path: 'menu', url: 'bezier.html'}
+- {name: 'Shape-based Trajectories', path: 'menu', url: 'shape.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
