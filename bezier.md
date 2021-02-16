@@ -4,6 +4,8 @@ A Bézier curve is a parametric curve defined by a set of points in a given orde
 
 ![bezier curve](./bezier/gifs/clas14.png)
 
+![GSD1 phenotype]({{ BASE_PATH }}/bezier/gifs/clas14.png)
+
 
 *Note: all examples made in this document are for 2-dimensional curves, conteines within a surface. The process is identical for 3-dimensional curves.*
 
