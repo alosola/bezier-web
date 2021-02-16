@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Shape-based trajectories
 ---
 
-Update the `menu/contact.md` file to change your Contact page.
+coming soon :)
