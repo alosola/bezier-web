@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[<- go back](./)
+[<- go back](https://alosola.github.io/trajectory/)
 
 ## A general introduction to Bézier curves
 

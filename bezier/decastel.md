@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[<- go back](./)
+[<- go back](https://alosola.github.io/trajectory/)
 
 ## De Casteljau's algorithm for construction of Bézier curves
 
