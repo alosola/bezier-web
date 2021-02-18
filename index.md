@@ -3,7 +3,7 @@ layout: default
 title: Contents
 ---
 
-# Contents
+# hi
 
 This site is a trial run containing results and images of the shape-based trajectory project.
 
@@ -18,7 +18,7 @@ This site is a trial run containing results and images of the shape-based trajec
 
 Visit the [GitHub repository](https://github.com/alosola/trajectory) to access the source code.
 
-Reference sources:
+### Reference sources:
 
 1. Reference for calculations with Bézier curves: [Scalable Trajectory Optimization based on Bézier Curves](https://www.researchgate.net/publication/327043649_Scalable_Trajectory_Optimization_based_on_Bezier_Curves)
 
