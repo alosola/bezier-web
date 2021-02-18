@@ -28,4 +28,8 @@ Visit the [GitHub repository](https://github.com/alosola/trajectory) to access t
 
 4. De Casteljau's algorithm explained: [Bezier Curves, Splines and Surfaces (Prof. Dr. Tino Weinkauf)](https://www.kth.se/social/files/55492cacf276542be2fc547a/BezierCurvesAndSurfaces.pdf)
 
-All images and animations have been created with MATLAB 2020b.
+5. Fiting Bézie curves to trajectory: [Bézier Description of Space Trajectories](https://sites.utexas.edu/renato/files/2017/04/Bezier-Description-of-Space-Trajectories_FINAL.pdf)
+
+------------------
+
+All images and animations have been created with MATLAB 2020b or Python 3.6.
