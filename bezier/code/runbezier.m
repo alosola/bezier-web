@@ -27,7 +27,7 @@ imsize = 400;
 % select 1,2, or 3 for first, second, or third order curves (respectively)
 % select 4,5,6 or 7 for higher order (more complex) curves
 % select case 8 for a curve with cusp
-P = sample_cases(5);
+P = sample_cases(3);
 
 %% POINT SELECTION POLYGON
 
@@ -64,6 +64,7 @@ title(sprintf('Bezier curve of order %i with De Casteljau algorithm', n));
 init(P,margin);
 
 Bdecas = B_casteljau(P,tvec);
+im = cell(1,3);
 
 for i=1:steps
     t = tvec(i);
@@ -74,8 +75,8 @@ for i=1:steps
         delete(dotmarker)
     end
     
-    % Plot the Bezier curve until the calculated insstant
-    plot(Bdecas(1,[1:i]),Bdecas(2,[1:i]),'k','LineWidth',3);
+    % Plot the Bezier curve from 0 to the calculated instant
+    plot(Bdecas(1,(1:i)),Bdecas(2,(1:i)),'k','LineWidth',3);
     
     % Plot the intermediate points
     [linemarker,dotmarker] = intermediate(P,t);
