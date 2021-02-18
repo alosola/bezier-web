@@ -25,7 +25,7 @@ $B(t) = \sum_{i=0}^n b_{i,n}(t)P_i$
 
 Where $t \in [0,1]$ is the parametric variable, $P_i$ represents each of the $n+1$ control points, and $b_{i,n}(t)$ is the Bernstein basis polynomial of degree $n$, defined as the polinomial coefficient of $n,i$ multiplied by an exponential function of t:
 
-$b_{i,n}(t) = \left( \begin{array}{c}n \\ i \end{array} \right)t^i\left(1-t\right)^{n-i}=\frac{n!}{i!\left(n-i\right)!}\:t^i\left(1-t\right)^{n-i}$
+$b_{i,n}(t) = \left( \begin{bmatrix} n \\ i \end{bmatrix}\right)t^i\left(1-t\right)^{n-i}=\frac{n!}{i!\left(n-i\right)!}\:t^i\left(1-t\right)^{n-i}$
 
 
 #### Linear Bézier curves $(n=1)$
