@@ -13,7 +13,9 @@ This site is a trial run containing results and images of the shape-based trajec
 
 2. Construction of Bézier curves with [De Casteljau's algorithm](./bezier/decastel.md).
 
-3. [Shape-based trajectories](./trajectory/intro.md)
+3. [Alternative representations](./bezier/alternate.md) of Bézier curves.
+
+4. [Shape-based trajectories](./trajectory/intro.md)
 
 
 Visit the [GitHub repository](https://github.com/alosola/trajectory) to access the source code.
@@ -26,9 +28,7 @@ Visit the [GitHub repository](https://github.com/alosola/trajectory) to access t
 
 3. Future reference: [Fast initial design of low-thrust multiple gravity-assist three-dimensional trajectories based on the Bezier shape-based method](https://www.sciencedirect.com/science/article/pii/S0094576520305592?via%3Dihub)
 
-4. De Casteljau's algorithm explained: [Bezier Curves, Splines and Surfaces (Prof. Dr. Tino Weinkauf)](https://www.kth.se/social/files/55492cacf276542be2fc547a/BezierCurvesAndSurfaces.pdf)
-
-5. Fiting Bézie curves to trajectory: [Bézier Description of Space Trajectories](https://sites.utexas.edu/renato/files/2017/04/Bezier-Description-of-Space-Trajectories_FINAL.pdf)
+4. Fiting Bézie curves to trajectory: [Bézier Description of Space Trajectories](https://sites.utexas.edu/renato/files/2017/04/Bezier-Description-of-Space-Trajectories_FINAL.pdf)
 
 ------------------
 
